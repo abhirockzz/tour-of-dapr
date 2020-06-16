@@ -1,6 +1,14 @@
-## Tour of Dapr
+# Resources for the talk "Tour of Dapr"
 
 Slides - https://www.slideshare.net/AbhishekGupta126/tour-of-dapr
+
+## Demos
+
+Code for the demos are in the [`demos`](demos) folder
+
+- [Dapr Kafka Bindings](https://github.com/dapr/docs/blob/master/concepts/bindings/README.md) demo with [Azure Event Hubs](https://docs.microsoft.com/azure/event-hubs/?WT.mc_id=tourofdapr-github-abhishgu)
+- [Dapr Kafka Bindings on Kubernetes](https://github.com/dapr/docs/blob/master/concepts/bindings/README.md) demo with [Azure Event Hubs](https://docs.microsoft.com/azure/event-hubs/?WT.mc_id=tourofdapr-github-abhishgu)
+- [Dapr Pub/Sub messaging using NATS](https://github.com/dapr/docs/blob/master/concepts/publish-subscribe-messaging/README.md) demo using [nats.io](https://docs.nats.io/)
 
 ### Resources
 
@@ -12,9 +20,3 @@ Slides - https://www.slideshare.net/AbhishekGupta126/tour-of-dapr
 - Twitter - https://twitter.com/daprdev
 - Gitter - https://gitter.im/Dapr/community
 - Blogs - https://dev.to/abhirockzz
-
-### Demos
-
-- [Dapr Bindings](https://github.com/dapr/docs/blob/master/concepts/bindings/README.md) demo with [Azure Event Hubs](https://docs.microsoft.com/azure/event-hubs/?WT.mc_id=daprmeetup-github-abhishgu) and [Azure Blob Storage](https://docs.microsoft.com/azure/storage/blobs/?WT.mc_id=daprmeetup-github-abhishgu)
-- [Dapr Pub/Sub](https://github.com/dapr/docs/blob/master/concepts/publish-subscribe-messaging/README.md) demo using [nats.io](https://docs.nats.io/)
-
