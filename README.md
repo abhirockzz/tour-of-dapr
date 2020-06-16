@@ -1,6 +1,6 @@
 # Resources for the talk "Tour of Dapr"
 
-Slides - https://www.slideshare.net/AbhishekGupta126/tour-of-dapr
+Slides - https://aka.ms/tour-of-dapr-slides
 
 ## Demos
 
