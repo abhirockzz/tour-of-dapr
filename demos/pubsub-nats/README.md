@@ -2,7 +2,7 @@
 
 Replace NATS info in `components/nats.yaml` (this example uses the public NATS server at `demo.nats.io` which you can continue with for the purposes of this demo)
 
-```bash`
+```bash
 export APP_PORT=8080
 export NATS_SUBJECT=demo
 ```
