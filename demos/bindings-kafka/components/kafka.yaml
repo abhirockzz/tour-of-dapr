@@ -1,0 +1,19 @@
+apiVersion: dapr.io/v1alpha1
+kind: Component
+metadata:
+  name: kafka-input
+spec:
+  type: bindings.kafka
+  metadata:
+    - name: brokers
+      value: [to be filled]
+    - name: saslPassword
+      value: [to be filled]
+    - name: saslUsername
+      value: $ConnectionString
+    - name: authRequired
+      value: "true"
+    - name: topics
+      value: [to be filled]
+    - name: consumerGroup
+      value: $Default
